@@ -6,6 +6,7 @@ I made this to mainly help myself and reduce DDoS attacks on my website (https:/
 
 # Information
 There is going to be a few options to adjust to make it suit best for your VPS or dedicated server. They are located and look like. 
+
 ![image](https://user-images.githubusercontent.com/79751099/192421313-16b8c3a9-71a7-4a2c-a043-25adcb724e4b.png)
 
 `infractionsMax` can be changed. That is the amount of times someone can refresh really fast before it blacklists them.             
